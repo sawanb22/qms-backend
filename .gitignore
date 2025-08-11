@@ -1,0 +1,7 @@
+# .gitignore
+venv_new/
+__pycache__/
+.env
+.idea/
+.vscode/
+*.DS_Store
